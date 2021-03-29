@@ -1,0 +1,1 @@
+jupyter notebook --NotebookApp.password="" --notebook-dir="$(pwd)"
